@@ -1,0 +1,21 @@
+{
+  "name": "paginate@1.1.0-standalone",
+  "version": "1.1.0",
+  "description": "",
+  "main": "paginate.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "tailwind-merge": "^2.4.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.40",
+    "tailwindcss": "^3.4.7"
+  },
+  "keywords": [],
+  "author": "Nazmus Sakib",
+  "license": "ISC"
+}
+
